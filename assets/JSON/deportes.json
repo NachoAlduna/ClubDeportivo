@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Karate",
+    "precio": "50000"
+  },
+  {
+    "nombre": "Tiro al arco",
+    "precio": "70000"
+  },
+  {
+    "nombre": "Judo",
+    "precio": "45000"
+  }
+]
